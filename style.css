@@ -77,7 +77,7 @@ p{
 button{
     background-color: var(--main-color);
     cursor: pointer;
-    border:1px solid var(--main-color);
+    border:2px solid var(--main-color);
     border-radius: 1.5em;
     outline: none;
     background-color: white;
