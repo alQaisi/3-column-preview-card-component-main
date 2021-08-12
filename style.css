@@ -83,7 +83,8 @@ button{
     background-color: white;
     padding:.80em 2.25em;
     font-family: 'Lexend Deca', sans-serif;
-    font-size: .95em;
+    letter-spacing: .85px;
+    font-size: 1em;
     margin-top: 45%;
 }
 button:hover{
